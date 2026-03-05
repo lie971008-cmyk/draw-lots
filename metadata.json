@@ -1,0 +1,5 @@
+{
+  "name": "Randomizer & Grouping Tool",
+  "description": "A tool for web designers to randomly draw prizes and automatically group participants from a list of names.",
+  "requestFramePermissions": []
+}
